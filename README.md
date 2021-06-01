@@ -6,3 +6,8 @@ This project goal is to design a moving robot which takes a voice command given 
 # Graphical user interface (GUI)
 
 ![image](https://user-images.githubusercontent.com/84661500/120316612-e75b1880-c2dd-11eb-9f79-631fb7335ac9.png)
+
+# Gazebo Map
+
+![image](https://user-images.githubusercontent.com/84661500/120316812-1d000180-c2de-11eb-92d3-da54c5d2df77.png)
+
