@@ -34,3 +34,5 @@ The project implementation can be separated into four steps.
 | Origin / Home Position | Move to Origin/Go to Origin/Move to Home Position/Go to Home Position |
 | Living Room | Move to Living Room/Go to Living Room |
 | Kitchen | Move to Kitchen/Go to Kitchen |         
+
+As shown above in the map we have created four rooms and an origin position. The turtlebot is placed at     the origin position initially and it can be moved from one room to another room by a recorded voice command. The code for this is written in Python Programming Language. As mentioned in the GUI section to move the robot from one room to another room it is recommended to first load the audio file and then click the Move the Robot button to the desired location. Navigation and Simulation: After performing the map generation in Gazebo, we used the Odometry package, euler_from_quaternion, quaternion_from_euler, Twist Package, P controller for the controlled rotation of turtlebot for navigation inside the generated map. 
